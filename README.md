@@ -1,8 +1,8 @@
 # Hi, I'm Diana! 👋
 
-🧬 **Entomologist | Pest Science | Bioinformatics**
+🧬 **Entomologist | Crop Protection Researcher | Bioinformatics**
 
-I am a Pest Science graduate with a background in entomology, molecular identification, crop protection, and bioinformatics research.
+I hold Magister of Pest Science from Universitas Gadjah Mada with main interest in entomology, insect molecular, and bioinformatics research.
 
 My interests focus on integrating molecular biology and computational approaches to better understand insect diversity, pest resistance, and sustainable crop protection.
 
